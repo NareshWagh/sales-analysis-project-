@@ -43,25 +43,7 @@ sales-data-analysis/
     └── monthly_trends.png
 ```
 
-## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/sales-data-analysis.git
-```
-
-Move into the project folder:
-
-```bash
-cd sales-data-analysis
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Running the Project
 
