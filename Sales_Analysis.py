@@ -14,7 +14,7 @@ import pandas as pd
 # ==========================================
 
 # Read the sales dataset from the local CSV file
-df = pd.read_csv('C:\\Users\\Lenovo\\Downloads\\Online Sales Data.csv')
+df = pd.read_csv('Online Sales Data.csv')
 
 # Clean up column names by stripping out any accidental leading/trailing spaces
 df.columns = df.columns.str.strip()
