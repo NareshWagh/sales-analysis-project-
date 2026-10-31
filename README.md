@@ -19,9 +19,11 @@ Identify top-selling products
 Analyze monthly revenue trends
 Generate revenue visualizations using Matplotlib
 Technologies Used
+
 Python
 Pandas
 Matplotlib
+
 Project Structure
 sales-data-analysis/
 │
@@ -35,8 +37,7 @@ sales-data-analysis/
 Installation
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/sales-data-analysis.git
-Move into the project folder:
+
 
 cd sales-data-analysis
 Install dependencies:
